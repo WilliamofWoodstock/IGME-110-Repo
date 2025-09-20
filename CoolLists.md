@@ -14,6 +14,6 @@
 - [Simosuchus↗](https://en.wikipedia.org/wiki/Simosuchus), an armoured herbivorous crocodile (not similar to the aetosaurs however).
 - [Stomatosuchus↗](https://en.wikipedia.org/wiki/Stomatosuchus), a filter-feeding crocodiles.
 - [Plesiosuchus↗](https://en.wikipedia.org/wiki/Plesiosuchus), a large ocean going crocodile that shares many similarities with mosasaurs.
-- [Purussaurus↗](https://en.wikipedia.org/wiki/Purussaurus), the largest caiman and perhaps the largest semi-aquatic crocodillian, and the heaviest animal of the Cenozoic era excluding aquatic animals.
+- [Purussaurus↗](https://en.wikipedia.org/wiki/Purussaurus), the largest caiman and perhaps the largest semi-aquatic crocodillian, and the **heaviest animal** of the Cenozoic era excluding aquatic animals.
 - [Boverisuchus↗](https://en.wikipedia.org/wiki/Boverisuchus), a cenozoic era land croc adapted for running surprisingly fast.
 - [Barinasuchus↗](https://en.wikipedia.org/wiki/Barinasuchus), a massive cenozoic land croc that is the heaviest of all land predators (including mammalian ones).
